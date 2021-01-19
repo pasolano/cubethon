@@ -1,0 +1,16 @@
+{
+"companyName": "Pablo",
+"productName": "CUBETHON",
+"productVersion": "1.0",
+"dataUrl": "Cubethon.data.unityweb",
+"wasmCodeUrl": "Cubethon.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cubethon.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
